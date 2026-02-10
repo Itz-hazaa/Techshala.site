@@ -343,7 +343,7 @@ const Founder = () => {
                 },
                 {
                   text: "Building WeePal to revolutionize K-12 education",
-                  link: "www.weepal.in"
+                  link: "https://www.weepal.in"
                 },
               ].map((item, index) => (
                 <li
