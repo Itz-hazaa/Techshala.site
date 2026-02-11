@@ -51,9 +51,9 @@ export default function CTASection() {
           </div> */}
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 max-w-4xl mx-auto">
   {[
-    { icon: ArrowRight, label: "NRI Program", href: "https://wa.me/message/WDZQSMTFKZDDE1", primary: true },
-    { icon: School, label: "School Workshop", href: "https://wa.me/message/WDZQSMTFKZDDE1", primary: true },
-    { icon: MessageCircle, label: "Enrol Now", href: "https://wa.me/message/WDZQSMTFKZDDE1", primary: true },
+    { icon: ArrowRight, label: "NRI Program", href: "https://wa.me/917842012006?text=Hi!%20Interested%20in%20TechShala%20NRI%20Program%20(Robotics%2C%20Coding%2C%20AI%2C%20Game%20Dev)%20for%20my%20child.", primary: true },
+    { icon: School, label: "School Workshop", href: "https://wa.me/917842012006?text=Hi!%20Interested%20in%20TechShala%20Hyderabad%20School%20Workshops%20(3-Day%20₹39k%2C%206-Day%20₹69k%2C%20Advanced%20₹89k)%20for%20our%20school.", primary: true },
+    { icon: MessageCircle, label: "Enrol Now", href: "https://wa.me/917842012006?text=Hi!%20I%20want%20to%20enrol%20my%20child%20in%20TechShala%20program.", primary: true },
        
 
     
