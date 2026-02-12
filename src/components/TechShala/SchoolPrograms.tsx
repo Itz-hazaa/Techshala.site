@@ -24,7 +24,7 @@ export default function SchoolPrograms() {
           className="text-center mb-14"
         >
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-display font-800 text-section-dark-foreground mb-4">
-            TechShala for <span className="text-primary">NRI kids</span>
+            TechShala for <span className="text-primary">International Students</span>
           </h2>
           <p className="text-lg text-section-dark-foreground/60 max-w-xl mx-auto">
             Online classes. Comprehensive tech curriculum designed for ICSE, CBSE & State Syllabus schools.
