@@ -100,7 +100,7 @@ export default function Hero() {
               href="#schools"
               className="w-full sm:w-auto inline-flex items-center justify-center border-2 border-primary-foreground/40 text-primary-foreground font-button font-600 text-lg px-8 py-4 rounded-xl hover:bg-primary-foreground/10 transition-all"
             >
-              NRI Programs
+              International Students
             </a>
           </div>
         </motion.div>
