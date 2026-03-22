@@ -6,7 +6,7 @@ const workshops = [
   {
     title: "3-Day Intensive",
     projects: "2 Projects + 1 Serving Robot",
-    price: "₹39,999",
+    price: "₹14,999",
     tagline: "Perfect weekend starter",
     spots: 3,
     featured: false,
@@ -15,7 +15,7 @@ const workshops = [
   {
     title: "6-Day Mastery",
     projects: "4 Projects + 1 Serving Robot",
-    price: "₹69,999",
+    price: "₹39,999",
     tagline: "Deeper skills, same timeframe",
     spots: 5,
     featured: true,
@@ -23,7 +23,7 @@ const workshops = [
   },
   {
     title: "6-Day Advanced",
-    projects: "3 Projects + 2 Serving Robots",
+    projects: "6 Projects + 2 Serving Robots",
     price: "₹89,999",
     tagline: "Dual-robot complexity",
     spots: 2,
