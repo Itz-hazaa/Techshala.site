@@ -103,6 +103,7 @@ export default function WorkshopCards() {
                     <li>✓ All materials & components</li>
                     <li>✓ Certificate of completion</li>
                     <li>✓ Classes 5-10th </li>
+                    <li>✓ 300 Students </li>
                   </ul>
                 </div>
               </div>
