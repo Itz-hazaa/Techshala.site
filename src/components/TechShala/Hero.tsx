@@ -84,9 +84,8 @@ export default function Hero() {
           </h1>
 
           <p className="text-lg sm:text-xl text-primary-foreground/80 max-w-2xl mx-auto mb-10 leading-relaxed">
-            Hands-on tech workshops + exclusive school programs.
-            <br className="hidden sm:block" />
-            3-day robot challenges to 6-week mastery courses.
+            We turn students into creators through real-world tech projects
+            
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
