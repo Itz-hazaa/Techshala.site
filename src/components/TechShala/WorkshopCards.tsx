@@ -4,18 +4,18 @@ import { Clock, Users, Zap, Crown } from "lucide-react";
 
 const workshops = [
   {
-    title: "3-Day Intensive",
-    projects: "2 Projects + 1 Serving Robot",
-    price: "₹14,999",
+    title: "1-Day Intensive",
+    projects: "2 Projects",
+    price: "₹39,999",
     tagline: "Perfect weekend starter",
     spots: 3,
     featured: false,
     icon: Zap,
   },
   {
-    title: "6-Day Mastery",
-    projects: "4 Projects + 1 Serving Robot",
-    price: "₹39,999",
+    title: "3-Day Mastery",
+    projects: "4 Projects",
+    price: "₹59,999",
     tagline: "Deeper skills, same timeframe",
     spots: 5,
     featured: true,
@@ -23,7 +23,7 @@ const workshops = [
   },
   {
     title: "6-Day Advanced",
-    projects: "6 Projects + 2 Serving Robots",
+    projects: "6 Projects + 2 Robots",
     price: "₹89,999",
     tagline: "Dual-robot complexity",
     spots: 2,
@@ -103,7 +103,7 @@ export default function WorkshopCards() {
                     <li>✓ All materials & components</li>
                     <li>✓ Certificate of completion</li>
                     <li>✓ Classes 5-10th </li>
-                    <li>✓ 300 Students </li>
+                    <li>✓ 500 Students </li>
                   </ul>
                 </div>
               </div>
