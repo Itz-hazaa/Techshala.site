@@ -40,6 +40,10 @@ export default function Footer() {
                 <MapPin className="w-4 h-4 mt-0.5 flex-shrink-0" />
                 Hyderabad, Telangana
               </li>
+              <li className="flex items-start gap-2 text-section-dark-foreground/70">
+                <MapPin className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                #VILLA NO 45, BANIYAS EAST 7TH, ABU DHABI (U. A. E)
+              </li>
               <li className="flex items-center gap-2 text-section-dark-foreground/70">
                 <Mail className="w-4 h-4 flex-shrink-0" />
                 techshala2025@gmail.com
@@ -47,6 +51,10 @@ export default function Footer() {
               <li className="flex items-center gap-2 text-section-dark-foreground/70">
                 <Phone className="w-4 h-4 flex-shrink-0" />
                 +91 78420 12006
+              </li>
+               <li className="flex items-center gap-2 text-section-dark-foreground/70">
+                <Phone className="w-4 h-4 flex-shrink-0" />
+                +971-582887447
               </li>
             </ul>
           </div>
